@@ -1,0 +1,835 @@
+    1  cd
+    2  pwd
+    3  mkdir intro-c
+    4  cd intro-c
+    5  pwd
+    6  ls
+    7  jcc -o hello.c
+    8  gcc -o hello hello.c
+    9  ./hell
+   10  ./hello
+   11  cd intro.c
+   12  cd intro-c/
+   13  cd hello.c
+   14  ls
+   15  ls -l
+   16  ./hello2
+   17  ./hello
+   18  gcc -save-temps -o hello2 hello.c
+   19  ./hello2
+   20  xxd -b hello.o > hello.o.txt
+   21  xxd -b hello > hello.txt
+   22  ls -l
+   23  gcc -o pointer_1 pointer_1.c
+   24  ./pointer_1
+   25  mkdir pointer_2.c
+   26  gcc -o pointer_2 pointer_2.c
+   27  ./pointer_2
+   28  gcc -o pointer_3 pointer_3.c
+   29  ./pointer_3
+   30  gcc -o pointer_4 pointer_4.c
+   31  ./pointer_4
+   32  cd intro-c/
+   33  gcc -o malloc_1.c malloc_1
+   34  gcc -o malloc_1 malloc_1.c
+   35  ./malloc_1
+   36  gcc -o malloc_2 malloc_2.c
+   37  ./malloc_2
+   38  gcc -o malloc_3 malloc_3.c
+   39  ./malloc_3
+   40  gcc -o malloc_3 malloc_3.c
+   41  ./malloc_3
+   42  git clone https://github.com/CSC231-WCU/assignment-2-simmsdavid499.git
+   43  cd assignment-2-simmsdavid499/
+   44  ls 
+   45  git status 
+   46  git add 
+   47  git add .
+   48  git status 
+   49  git commit -m "Added student name to read me"
+   50  git staus 
+   51  git status 
+   52  '
+   53  saf
+   54  asdfttps://github.com/CSC231-WCU/assignment-2-simmsdavid499.git
+   55  '
+   56  clear 
+   57  git push
+   58  cd intro-c/
+   59  gcc -o array_1 array_1.c
+   60  array_1/.
+   61  ./array_1
+   62  gcc -o array_2 array_2.c
+   63  ./array_2
+   64  gcc -o array_3 array_3.c
+   65  ./array_3
+   66  gcc -o array_4 array_4.c
+   67  ./array_4
+   68  ./array_4 1
+   69  ./array_4 10
+   70  cd..
+   71  cd ..
+   72  cd assignment-2-simmsdavid499/
+   73  ls
+   74  gcc -o time_conversion time_converstion.c
+   75  gcc -o time_conversion time_conversion.c
+   76  gcc -o time_conversion time_conversion.c 1
+   77  gcc -o time_conversion time_conversion.c
+   78  ./time_conversion 1
+   79  ./time_conversion 20
+   80  gcc -o time_conversion time_conversion.c
+   81  ./time_conversion 20
+   82  ./time_conversion 60
+   83  gcc -o time_conversion time_conversion.c
+   84  ./time_conversion 60
+   85  ./time_conversion 213
+   86  ./time_conversion 21
+   87  gcc -o time_conversion time_conversion.c
+   88  ./time_conversion 21
+   89  gcc -o time_conversion time_conversion.c
+   90  ./time_conversion 21
+   91  90
+   92  ./time_conversion 90
+   93  git.push
+   94  git commit
+   95  git push
+   96  git out
+   97  git status
+   98  git commit 
+   99  git push
+  100  clear
+  101  git commit 
+  102  git add .
+  103  git commit 
+  104  git push
+  105  cd 03-data/
+  106  gcc -o bitwise_demo bitwise_demo.c
+  107  ./bitwise_demo.c
+  108  ./bitwise_demo
+  109  gcc -o numeric_ranges.c numeric_ranges
+  110  gcc -o numeric_ranges numeric_ranges.c
+  111  ./numeric_ranges
+  112  gcc -o numeric_ranges numeric_ranges.c
+  113  ./numeric_ranges
+  114  gcc -o numeric_ranges numeric_ranges.c
+  115  ./numeric_ranges
+  116  git
+  117  git itit
+  118  git init
+  119  git push
+  120  git remote add https://github.com/CSC231-WCU/assignment-2-simmsdavid499
+  121  mirror
+  122  git push
+  123  git push assignment-2-simmsdavid499/
+  124  git config --global push.default simple
+  125  git push assignment-2-simmsdavid499/
+  126  git push --set-upstream assignment-2-simmsdavid499/
+  127  git comit 
+  128  git commit
+  129  cd assignment-2-simmsdavid499/
+  130  git commit 
+  131  git push
+  132  git pull
+  133  git push
+  134  ./time_conversion
+  135  ./time_conversion 245
+  136  git push
+  137  git commit 
+  138  git pull
+  139  git push
+  140  git commit 
+  141  git commit time_converstion.c
+  142  git commit assignment-2
+  143  git commit https://github.com/CSC231-WCU/assignment-2-simmsdavid499/blob/master/time_conversion.c
+  144  git commit https://github.com/CSC231-WCU/assignment-2-simmsdavid499
+  145  ls
+  146  git commit time_conversion.c
+  147  git push
+  148  clear
+  149  gcc -o product product.c
+  150  ./product
+  151  ./product path
+  152  gcc -o product product.c
+  153  clear
+  154  gcc -o product product.c
+  155  ./product C:\Users\simms\Documents\csc\test.txt
+  156  ./product C:\\Users\\simms\\Documents\\csc
+  157  gcc -o product product.c
+  158  ./product C:\Users\simms\Documents\csc\test.txt
+  159  ./product C:\\Users\\simms\\Documents\\csc
+  160  gcc -o product product.c
+  161  ./product C:\\Users\\simms\\Documents\\csc
+  162  ./product C:\Users\simms\Documents\csc\test.txt
+  163  clear 
+  164  gcc -o product product.c
+  165  ./product C:\Users\simms\Documents\csc\test.txt
+  166  ./product C:\\Users\\simms\\Documents\\csc
+  167  cd assignment-2-simmsdavid499/
+  168  command
+  169  gcc -o product product.c
+  170  ./product
+  171  gcc -o product product.c
+  172  ./product /home/ds903938/assignment-2-simmsdavid499/numbers.txt
+  173  gcc -o product product.c
+  174  ./product /home/ds903938/assignment-2-simmsdavid499/numbers.txt
+  175  gcc -o product product.c
+  176  ./product /home/ds903938/assignment-2-simmsdavid499/numbers.txt
+  177  gcc -o product product.c
+  178  cleZAR
+  179  clear
+  180  gcc -o product product.c
+  181  ./product /home/ds903938/assignment-2-simmsdavid499/numbers.txt
+  182  gcc -o product product.c
+  183  ./product /home/ds903938/assignment-2-simmsdavid499/numbers.txt
+  184  gcc -o product product.c
+  185  ./product /home/ds903938/assignment-2-simmsdavid499/numbers.txt
+  186  gcc -o product product.c
+  187  cd assignment-2-simmsdavid499/
+  188  gcc -o product product.c
+  189  ./product /home/ds903938/assignment-2-simmsdavid499/numbers.txt
+  190  clear
+  191  gcc -o product product.c
+  192  git commit 
+  193  git push
+  194  git commit 
+  195  git commit .
+  196  git push
+  197  git commit 
+  198  git commit . 
+  199  git commit .
+  200  git push .
+  201  ls
+  202  git status
+  203  git add product.c
+  204  git add -A
+  205  git commit -m "commit"
+  206  clear
+  207  git push
+  208  git push -u origin master
+  209  git add product
+  210  gcc -o product product.c
+  211  ./product
+  212  ./product.c
+  213  ./product
+  214  ./product /home/ds903938/assignment-2-simmsdavid499/numbers.txt
+  215  gcc -o product product.c
+  216  ./product /home/ds903938/assignment-2-simmsdavid499/numbers.txt
+  217  gcc -o product product.c
+  218  ./product /home/ds903938/assignment-2-simmsdavid499/numbers.txt
+  219  gcc -o product product.c
+  220  ./product /home/ds903938/assignment-2-simmsdavid499/numbers.txt
+  221  gcc -o product product.c
+  222  clear
+  223  gcc -o product product.c
+  224  clear
+  225  gcc -o product product.c
+  226  ./product /home/ds903938/assignment-2-simmsdavid499/numbers.txt
+  227  gcc -o product product.c
+  228  ./product /home/ds903938/assignment-2-simmsdavid499/numbers.txt
+  229  gcc -o product product.c
+  230  ./product /home/ds903938/assignment-2-simmsdavid499/numbers.txt
+  231  gcc -o product product.c
+  232  ./product /home/ds903938/assignment-2-simmsdavid499/numbers.txt
+  233  gcc -o product product.c
+  234  ./product /home/ds903938/assignment-2-simmsdavid499/numbers.txt
+  235  git status
+  236  git add product.c
+  237  rm ./.git/index.lock
+  238  git add product.c
+  239  git commit
+  240  git push
+  241  git status
+  242  git add time_conversion.c 
+  243  git push
+  244  git statut
+  245  git status 
+  246  ./product /home/ds903938/assignment-2-simmsdavid499/test/2.txt
+  247  git status 
+  248  cd intro-c/
+  249  cd
+  250  cd 03-data/
+  251  gcc -o unsigned_addition ansigned_addition.c
+  252  gcc -o unsigned_addition.c ansigned_addition
+  253  gcc -o unsigned_addition unsigned_addition.c
+  254  ./unsigned
+  255  ./unsigned_addition
+  256  gcc -o unsigned_addition unsigned_addition.c
+  257  ./unsigned_addition
+  258  mk dir signed_addition.c
+  259  mkdir signed_addition.c
+  260  gcc -o signed_addition signed_addition.c
+  261  ./signed_addition
+  262  gcc -o signed_addition signed_addition.c
+  263  ./signed_addition
+  264  cd assignment-2-simmsdavid499/
+  265  ./product.c
+  266  ./product
+  267  gcc -o product product.c
+  268  ./product
+  269  git statut
+  270  git status
+  271  git add product 
+  272  git commit
+  273  git push
+  274  git pull 
+  275  git pushg
+  276  git push
+  277  git status
+  278  git commit 
+  279  clear
+  280  git commit
+  281  git push
+  282  gcc -o  product product.c 
+  283  ./product
+  284  ./product.c
+  285  gcc -o  product.c product
+  286  ./product.c
+  287  ./product
+  288  clear
+  289  gcc -o  product.c product
+  290  gcc -o  product product.c
+  291  ./product
+  292  cd 03-data/
+  293  gcc -o show_fp show_fp.c
+  294  gcc -o show_fp.c show_fp
+  295  gcc -o show_fp show_fp.c
+  296  gcc -o show_fp.c show_fp
+  297  gcc -o show_fp show_fp.c
+  298  ./show_fp
+  299  ./show_fp10
+  300  ./show_fp 10
+  301  cd 03-data/
+  302  gcc -o unsigned_addition unsigned_addition.c
+  303  ./unsigned_addition
+  304  gcc -o unsigned_addition unsigned_addition.c
+  305  ./unsigned_addition
+  306  gcc -o unsigned_addition unsigned_addition.c
+  307  ./unsigned_addition
+  308  gcc -o unsigned_addition unsigned_addition.c
+  309  ./unsigned_addition
+  310  gcc -o signed_addition signed_addition.c
+  311  ./signed_addtion
+  312  ./signed_addition
+  313  gcc -o negation negation.c
+  314  ./negation
+  315  ./negation 1
+  316  ./negation -32768
+  317  ./negation 1
+  318  gcc -o negation negation.c
+  319  ./negation 1
+  320  ./negation -32768
+  321  cd
+  322  git pull
+  323  git pull https://github.com/CSC231-WCU/lab-1-simmsdavid499
+  324  git clone https://github.com/CSC231-WCU/lab-1-simmsdavid499
+  325  cd lab-1-simmsdavid499/
+  326  gcc -Wall -Werror -Igcc -Wall -Werror -I. 
+  327  gcc -Wall -Werror -I. -o f2b f2b.c show_bytes.c
+  328  pwd
+  329  ls
+  330  pwd
+  331  gcc -Wall -Werror -I/home/ds903938/lab-1-simmsdavid499 -o f2b f2b.c show_bytes.c
+  332  gcc -Wall -Werror -I/home/ds903938/lab-1-simmsdavid499 -o i2b i2b.c show_bytes.c
+  333  make i2b
+  334  make clean
+  335  make f2b
+  336  make i2b
+  337  make clean
+  338  make i2b
+  339  make clean
+  340  make f2b
+  341  make clean
+  342  make all
+  343  make clean
+  344  pqd
+  345  pwd
+  346  -f Makefile.pwd
+  347  make -f Makefile.pwd
+  348  mkdir header
+  349  man
+  350  copy
+  351  clear
+  352  make -f Makefile.header
+  353  cd header/
+  354  make -f Makefile.header
+  355  pwd
+  356  make -f Makefile.header
+  357  cd
+  358  cd lab-1-simmsdavid499/
+  359  make i2v
+  360  make i2b
+  361  git
+  362  git add .
+  363  git commit 
+  364  git push
+  365  clearn
+  366  clear
+  367  cd header/
+  368  make -f
+  369  make -f Makefile.header
+  370  pwd
+  371  make -f Makefile.header
+  372  mk
+  373  mkdir
+  374  mkfile
+  375  mkf
+  376  make -f Makefile.header
+  377  cd .
+  378  cd . .
+  379  cd
+  380  cd la
+  381  cd lab-1-simmsdavid499/
+  382  pwd
+  383  make -f Makefile.header
+  384  cd header/
+  385  make -f Makefile.header
+  386  make i2b
+  387  make i2b.c
+  388  make i2b
+  389  cd
+  390  cd lab-1-simmsdavid499/
+  391  make i2b
+  392  ls
+  393  make clean
+  394  la
+  395  ls
+  396  cd header/
+  397  ls
+  398  cd
+  399  git clone https://github.com/CSC231-WCU/assignment-3-simmsdavid499
+  400  cd assignment-3-simmsdavid499/
+  401  gcc -o i2b i2b.c
+  402  ./i2b
+  403  gcc -o i2b i2b.c
+  404  ./i2b
+  405  gcc -o i2b i2b.c
+  406  ./i2b
+  407  cd lab-1-simmsdavid499/
+  408  cd heade
+  409  cd header/
+  410  make -f Makefile.header
+  411  cd lab-1-simmsdavid499/
+  412  cd hea
+  413  cd header/
+  414  clear
+  415  make -f Makefile.header
+  416  cd
+  417  cd assignment-3-simmsdavid499/
+  418  gcc -o i2b i2b.c
+  419  ./i2b
+  420  gcc -o i2b i2b.c
+  421  ./i2b
+  422  ./i2b 12345
+  423  clear
+  424  gcc -o i2b i2b.c
+  425  ./i2b
+  426  gcc -o i2b i2b.c
+  427  ./i2b
+  428  ./i2b 12345
+  429  clear
+  430  ./i2b -23
+  431  gcc -o i2b i2b.c
+  432  ./i2b -23
+  433  cd 
+  434  cd lab-1-simmsdavid499/
+  435  make -f Makefile.header
+  436  make -f Makefile.header clean
+  437  make -f Makefile clean
+  438  make -f Makefile malloc_1
+  439  make -f Makefile clean
+  440  make -f Makefile.multi malloc_1
+  441  make -f Makefile.multi clean
+  442  make -f Makefile.multi all
+  443  make -f Makefile.multi 03-data
+  444  make -f Makefile.multi all
+  445  make -f Makefile.multi clean
+  446  make -f Makefile.multi all
+  447  make -f Makefile.multi clean
+  448  git add .
+  449  git commit 
+  450  git push . 
+  451  git status 
+  452  git push
+  453  git status 
+  454  git push
+  455  make -f Makefile.multi test
+  456  make -f Makeflie.multi all
+  457  make -f Makeflie.multi all 
+  458  make -f Makeflie.multi all
+  459  make -f Makefile.multi all
+  460  make -f Makefile.multi test
+  461  git push
+  462  git add .
+  463  git commit 
+  464  git push
+  465  cd assignment-3-simmsdavid499/
+  466  git push
+  467  git add .
+  468  git commit 
+  469  clear
+  470  gcc -o i2b i2b.c
+  471  ./i2b
+  472  ./i2b 12345
+  473  ./i2b
+  474  gcc -o i2b i2b.c
+  475  ./i2b 12345
+  476  gcc -o i2b i2b.c
+  477  ./i2b 12345
+  478  clear
+  479  ./i2b 12345
+  480  gcc -o i2b i2b.c
+  481  ./i2b 12345
+  482  gcc -o i2b i2b.c
+  483  ./i2b 12345
+  484  gcc -o i2b i2b.c
+  485  ./i2b 12345
+  486  gcc -o i2b i2b.c
+  487  ./i2b 12345
+  488  gcc -o i2b i2b.c
+  489  ./i2b 12345
+  490  git add .
+  491  git commit 
+  492  cd assignment-3-simmsdavid499/
+  493  git add .
+  494  git commit 
+  495  git status 
+  496  cd test/
+  497  git clone https://github.com/CSC231-WCU/assignment-3-simmsdavid499
+  498  cd
+  499  cd assignment-3-simmsdavid499/
+  500  git commit 
+  501  git fsck
+  502  git fsck --name-objects 
+  503  git fsck --name-objects
+  504  git fsck
+  505  git commit 
+  506  ./i2b 12345
+  507  gcc -o i2b i2b.c
+  508  ./i2b 12345
+  509  gcc -o i2b i2b.c
+  510  ./i2b 12345
+  511  gcc -o i2b i2b.c
+  512  ./i2b 12345
+  513  gcc -o i2b i2b.c
+  514  ./i2b 12345
+  515  gcc -o i2b i2b.c
+  516  ./i2b 12345
+  517  gcc -o i2b i2b.c
+  518  ./i2b 12345
+  519  gcc -o i2b i2b.c
+  520  ./i2b 12345
+  521  gcc -o i2b i2b.c
+  522  ./i2b 12345
+  523  ./i2b -12345
+  524  gcc -o i2b i2b.c
+  525  ./i2b -12345
+  526  gcc -o i2b i2b.c
+  527  ./i2b -12345
+  528  gcc -o i2b i2b.c
+  529  ./i2b -12345
+  530  ./i2b 12345
+  531  ./i2b -12345
+  532  gcc -o i2b i2b.c
+  533  ./i2b 12345
+  534  gcc -o i2b i2b.c
+  535  ./i2b 12345
+  536  gcc -o i2b i2b.c
+  537  ./i2b 12345
+  538  ./i2b -12345
+  539  gcc -o i2b i2b.c
+  540  ./i2b 12345
+  541  gcc -o i2b i2b.c
+  542  ./i2b 12345
+  543  gcc -o i2b i2b.c
+  544  ./i2b 12345
+  545  ./i2b -12345
+  546  gcc -o i2b i2b.c
+  547  ./i2b -12345
+  548  ./i2b 12345
+  549  clear
+  550  ./i2b 12345
+  551  gcc -o untitled untitled.c
+  552  ./i2b 12345
+  553  gcc -o untitled untitled.c
+  554  gcc -o i2b i2b.c
+  555  ./i2b 12345
+  556  gcc -o i2b i2b.c
+  557  ./i2b 12345
+  558  gcc -o i2b i2b.c
+  559  ./i2b 12345
+  560  gcc -o i2b i2b.c
+  561  ./i2b 12345
+  562  gcc -o i2b i2b.c
+  563  ./i2b 12345
+  564  ./i2b -12345
+  565  ./i2b 12345
+  566  gcc -o i2b i2b.c
+  567  ./i2b -12345
+  568  gcc -o i2b i2b.c
+  569  ./i2b 12345
+  570  ./i2b -12345
+  571  gcc -o i2b i2b.c
+  572  ./i2b 12345
+  573  ./i2b -12345
+  574  gcc -o i2b i2b.c
+  575  ./i2b 12345
+  576  ./i2b -12345
+  577  gcc -o i2b i2b.c
+  578  ./i2b 12345
+  579  ./i2b -12345
+  580  ./i2b 12345
+  581  ./i2b -12345
+  582  gcc -o i2b i2b.c
+  583  ./i2b 12345
+  584  ./i2b -12345
+  585  gcc -o i2b i2b.c
+  586  ./i2b -12345
+  587  ./i2b 12345
+  588  git add .
+  589  git commit 
+  590  cd
+  591  ls
+  592  mkdir tmp
+  593  cd tmp
+  594  clone https://github.com/simsdavid499/assignment-3-simsdavid499
+  595  git clone https://github.com/simsdavid499/assignment-3-simmsdavid499
+  596  git clone https://github.com/CSC231-WCU/assignment-3-simsdavid499
+  597  git clone https://github.com/CSC231-WCU/assignment-3-simmsdavid499
+  598  ls\
+  599  ls
+  600  cd ..
+  601  cd assignment-
+  602  cd assignment-3-simmsdavid499/
+  603  git status
+  604  cp -R ~/tmp/assignment-3-simmsdavid499/.git .
+  605  ls
+  606  mv .git .git.backup
+  607  cp -R ~/tmp/assignment-3-simmsdavid499/.git .
+  608  git status
+  609  cd assignment-3-simmsdavid499/
+  610  git add .
+  611  cd assignment-3-simmsdavid499/
+  612  git commit 
+  613  git push
+  614  gcc -o i2b i2b.c
+  615  ./i2b 12345
+  616  ./i2b -12345
+  617  git status
+  618  git commit -m
+  619  git commit -m "test"
+  620  git add .
+  621  git commit -m "test"
+  622  git push
+  623  gcc -o i2b i2b.c
+  624  ./i2b 123
+  625  ./i2b -123
+  626  git clone https://github.com/CSC231-WCU/lab-2-simmsdavid499
+  627  tmux ls 
+  628  tmux attatch session -t csc231
+  629  tmux attach session -t csc231
+  630  exit
+  631  tmux new -s s2
+  632  exit
+  633  ls
+  634  tmux ls
+  635  tmux ls 
+  636  exit 
+  637  exit
+  638  tmux ls
+  639  tmux kill session 
+  640  tmux kill -session 
+  641  tmux kill -session p1
+  642  tmux kill p1
+  643  exit
+  644  exit
+  645  tmux ls 
+  646  tmux kill -session
+  647  exit
+  648  cd
+  649  tmux ls
+  650  tmux new -s s1
+  651  tmux ls 
+  652  tmux exit
+  653  exit
+  654  tmux kill-session
+  655  exti
+  656  exit
+  657  tmus ls 
+  658  tmux ls 
+  659  tmux kill-session
+  660  detatch
+  661  tmux detach
+  662  tmux kill-session
+  663  exit
+  664  xit
+  665  exit
+  666  exit
+  667  exit
+  668  ls
+  669  cd assignment-3-simmsdavid499/
+  670  ls
+  671  tmux new -s csc231
+  672  tmux ls
+  673  tmux new -s s1
+  674  ls
+  675  tmux ls
+  676  tmux new -s s1
+  677  tmux ls
+  678  tmux new -s s1
+  679  tmux ls
+  680  tmux new -s s2
+  681  tmux ls
+  682  tmux new -s s3
+  683  tmux new -s p1
+  684  cd
+  685  tmux ls
+  686  tmux new -s s3
+  687  tmux ls 
+  688  tmux attach s3
+  689  tmux attach -session -t s3
+  690  tmux attach-session -t s3
+  691  tmux ls
+  692  tmux -new -s s3
+  693  tmux new -s s3
+  694  tmux s1
+  695  tmux attach s1
+  696  tmux attach-session s1
+  697  tmux attach-session -s s1
+  698  tmux attach-session -t s1
+  699  tmux ls 
+  700  tmux new -s s1
+  701  tmux new -s p1
+  702  cs
+  703  clea
+  704  clear
+  705  tmux ls
+  706  tmux kill-session
+  707  tmux ls
+  708  tmux kill-session
+  709  tmux new -s s1
+  710  tmux ls 
+  711  tmux new -s p1
+  712  tmux kill-session
+  713  tmux ls 
+  714  git clone https://github.com/longld/peda.git
+  715  echo "source ~/peda/peda.py"> ~/.gdbinit
+  716  hdb
+  717  gdb
+  718  tmux ls 
+  719  kill-session
+  720  tmux kill-session
+  721  git clone https://github.com/longld/peda.git
+  722  ls
+  723  tm peda
+  724  rm peda
+  725  exit
+  726  cd lab-2-simmsdavid499/
+  727  ls
+  728  nano readme
+  729  cd
+  730  cd lab-2-simmsdavid499/
+  731  ls
+  732  cd README.md
+  733  pwd
+  734  ls
+  735  tmux ls 
+  736  tmux new -s gdb
+  737  tmux ls 
+  738  tmux new -s gdb
+  739  exit 
+  740  cd intro-c/
+  741  gdb hello 
+  742  gdb malloc_1
+  743  gdb time_conversion.c
+  744  gdb malloc.c
+  745  gdb time_converstion.c
+  746  gdb malloc_1
+  747  exit
+  748  cd
+  749  git clone https://github/longld/peda.git
+  750  git clone https://github.com/longld/peda.git
+  751  ehco "source ~/peda/peda.py"> ~/.gdbinit
+  752  gdb
+  753  cd intro-c/
+  754  gcc -g -o hello hello.c
+  755  cd
+  756  ls
+  757  cd assignment-2-simmsdavid499/
+  758  ls
+  759  copy time_conversion.c
+  760  cd time_conversion.c 
+  761  copy time_conversion.c
+  762  cd
+  763  cd intro.c
+  764  cd intro-c/
+  765  gcc -g -o hello hello.c
+  766  gcc -g -o malloc_1 malloc_1.c 
+  767  exit
+  768  tmux ls 
+  769  tmux new -s gdb
+  770  exiot
+  771  exit
+  772  gbd
+  773  gdb
+  774  gdb time_conversion
+  775  quit
+  776  exit
+  777  gcc -g -o time_conversion time_conversion.c
+  778  exit
+  779  cd lab-2
+  780  cd lab-2-simmsdavid499/
+  781  tmux ls
+  782  tmux new -s gdb
+  783  exit
+  784  pwd
+  785  ls
+  786  ls -1
+  787  ls -l
+  788  ls -a
+  789  ls -al
+  790  mkdir CSC302
+  791  cd CSC302/
+  792  pwd
+  793  nano test.txt
+  794  ls -l
+  795  chmod 777 test.txt
+  796  chmod
+  797  --help
+  798  mv test.txt new.txt
+  799  cp new.txt
+  800  cp new.txt ..
+  801  cp new.txt ../
+  802  cd ..
+  803  pwd 
+  804  cat .history 
+  805  rmdir CSC302/
+  806  rm -r CSC302/
+  807  man rm
+  808  ls
+  809  ls -i new.txt
+  810  ls inum new.txt
+  811  ls -inum new.txt
+  812  cat new.txt
+  813  cat new.txt |more
+  814  nano new.txt
+  815  cat new.txt |grep security
+  816  locate .txt |more
+  817  hostname
+  818  ip addr show
+  819  /sbin/ifconfig
+  820  ip addr show
+  821  ping 127.0.0.1
+  822  free
+  823  free -m
+  824  free -g
+  825  top
+  826  finger ds903938
+  827  finger ds903938@taz
+  828  finger simms
+  829  finger david 
+  830  nano .plan
+  831  who 
+  832  w
+  833  last
+  834  history 
+  835  history > history.txt
